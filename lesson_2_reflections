@@ -1,1 +1,4 @@
 initialize a repository is important to track the file inside the folder
+
+the staging area is different from the working directory because in the working directory files inside are not linked. 
+the staging area is different from the repository because here we can save commits
